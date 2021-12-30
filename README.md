@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi, here is AnSwErYWJ
+<a href="#">
+<img align="right" alt="WeiJie Yuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnSwErYWJ&show_icons=true">
+</a>
 
-<!--
-**AnSwErYWJ/answerywj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋, AnSwErYWJ means WeiJie Yuan is answer to everything.
 
-[![AnSwErYWJ's github stats](https://github-readme-stats.vercel.app/api?username=AnSwErYWJ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- Location :earth_asia: : Suzhou, China :cn:
+- Blog :pencil: : [http://www.answerywj.com](https://www.answerywj.com) 
+- Email :email: : [yuanweijie1993@gmail.com](https://mail.google.com)
+- Weibo :computer: : [AnSwEr不是答案](https://weibo.com/1783591593)
+- Wechat Official Accounts :penguin:: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSwErYWJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Visitors Statistics](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=AnSwErYWJ.AnSwErYWJ.readme)
