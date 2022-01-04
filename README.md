@@ -3,7 +3,7 @@
 <img align="right" alt="WeiJie Yuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnSwErYWJ&show_icons=true">
 </a>
 
-- Name :boy: : AnSwErYWJ 
+- Name :boy: : Weijie Yuan 
 - Location :earth_asia: : Suzhou, China :cn:
 - Blog :pencil: : [http://www.answerywj.com](https://www.answerywj.com) 
 - Email :email: : [yuanweijie1993@gmail.com](https://mail.google.com)
