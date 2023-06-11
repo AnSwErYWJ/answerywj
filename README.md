@@ -12,12 +12,12 @@
 - Wechat Official Accounts :penguin:: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
 - Language :pencil2: : `Linux C/C++, Shell/Python/Matlab/Lua`
 
-##### 目前在做的
+#### 目前在做的
 - 音频算法工程化, 移植和优化
 - 神经网络模型推理计算框架开发和优化, 包含算子融合, 计算优化及量化
 - 异构计算开发及算力优化, 包含 `Cortex-A(Neon/ACL)`, `Qualcomm aDSP/cDSP(QHL/HVX/HTA)`, `Tensilica HIFI3/4/5`；
 
-##### 感兴趣想做的
+#### 感兴趣想做的
 - `Android Audio`, 包括`Audio HAL/ALSA/AudioFlinger`等
 - 待补充
 
