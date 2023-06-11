@@ -3,14 +3,14 @@
 <img align="right" alt="WeiJie Yuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnSwErYWJ&show_icons=true">
 </a>
 
-- Name :boy: : **Weijie Yuan (AnSwErYWJ)**
-- Year :birthday: : **1993.09**
-- Location :earth_asia: : **苏州**
-- Github :computer: : [AnSwErYWJ](https://github.com/AnSwErYWJ)
-- Blog :pencil: : [https://www.answerywj.com](https://www.answerywj.com) 
-- Email :email: : [yuanweijie1993@gmail.com](https://mail.google.com)
-- Wechat Official Accounts :penguin:: [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png)
-- Language :pencil2: : `Linux C/C++, Shell/Python/Matlab/Lua`
+- Name 👦 : **Weijie Yuan (AnSwErYWJ)** <!-- :boy: -->
+- Birth 🎂 : **1993.09** <!-- :birthday: -->
+- Location 🌏 : **苏州** <!-- :earth_asia: -->
+- Github 💻 : [AnSwErYWJ](https://github.com/AnSwErYWJ) <!-- :computer: -->
+- Blog 📝 : [https://www.answerywj.com](https://www.answerywj.com) <!-- :pencil: -->
+- Email 📧 : [yuanweijie1993@gmail.com](https://mail.google.com) <!-- :email: -->
+- Wechat Official Accounts 🐧 : [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png) <!-- :penguin: -->
+- Language ✏️ : `Linux C/C++, Shell/Python/Matlab/Lua` <!-- :pencil2: -->
 
 #### 目前在做的
 - 音频算法工程化, 移植和优化
