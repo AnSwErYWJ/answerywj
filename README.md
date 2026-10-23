@@ -7,9 +7,8 @@
 - Birth 🎂 : **1993.09** <!-- :birthday: -->
 - Location 🌏 : **苏州** <!-- :earth_asia: -->
 - Github 💻 : [AnSwErYWJ](https://github.com/AnSwErYWJ) <!-- :computer: -->
-- Blog 📝 : [https://answerywj.github.io](https://answerywj.github.io) <!-- :pencil: -->
+- Blog（停更） 📝 : [https://answerywj.github.io](https://answerywj.github.io) <!-- :pencil: -->
 - Email 📧 : [yuanweijie1993@gmail.com](https://mail.google.com) <!-- :email: -->
-- Wechat Official Accounts 🐧 : [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png) <!-- :penguin: -->
 - Language ✏️ : `Linux C/C++, Shell/Python/Matlab/Lua` <!-- :pencil2: -->
 
 #### 目前在做 端侧AI部署 和 AI Agent相关
