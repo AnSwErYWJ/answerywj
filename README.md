@@ -7,18 +7,12 @@
 - Birth 🎂 : **1993.09** <!-- :birthday: -->
 - Location 🌏 : **苏州** <!-- :earth_asia: -->
 - Github 💻 : [AnSwErYWJ](https://github.com/AnSwErYWJ) <!-- :computer: -->
-- Blog 📝 : [https://www.answerywj.com](https://www.answerywj.com) <!-- :pencil: -->
+- Blog 📝 : [https://answerywj.github.io](https://answerywj.github.io) <!-- :pencil: -->
 - Email 📧 : [yuanweijie1993@gmail.com](https://mail.google.com) <!-- :email: -->
 - Wechat Official Accounts 🐧 : [AnSwEr不是答案](https://github.com/AnSwErYWJ/DogFood/blob/master/Template/wechat_public_qdode.png) <!-- :penguin: -->
 - Language ✏️ : `Linux C/C++, Shell/Python/Matlab/Lua` <!-- :pencil2: -->
 
-#### 目前在做的
-- 音频算法工程化, 移植和优化
-- 神经网络模型推理计算框架开发和优化, 包含算子融合, 计算优化及量化
-- 异构计算开发及算力优化, 包含 `Cortex-A(Neon/ACL)`, `Qualcomm aDSP/cDSP(QHL/HVX/HTA)`, `Tensilica HIFI3/4/5`；
-
-#### 感兴趣想做的
-- `Android Audio`, 包括`Audio HAL/ALSA/AudioFlinger`等
-- 待补充
-
-*有工作机会欢迎联系~*
+#### 目前在做 端侧AI部署 和 AI Agent相关
+- 自研NN推理计算框架开发和优化, 包含 计算图优化、融合、量化等, 以及算子优化；
+- 异构部署, 涉及CPU（NEON/AVX）、NPU(QNN/RKNN/NEURON/OPENVINO)、DSP（cDSP/aDSP/HIFI3/4/5）等计算单元异构协同优化 ；
+- 算法移植harness；
